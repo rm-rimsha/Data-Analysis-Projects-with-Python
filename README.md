@@ -10,7 +10,6 @@ Demographic Data Analysis
 ![image](https://github.com/rm-rimsha/DataAnalysiswithPython/assets/105241371/a7273032-db3f-44c0-8a64-0c3cbdd72a98)
 
 
-                                              -------------------------------------------------------------------------------
 
 **Medical Data Visualization**:
 
@@ -23,3 +22,15 @@ Demographic Data Analysis
   ![image](https://github.com/rm-rimsha/DataAnalysiswithPython/assets/105241371/f63ca5c5-04da-459e-babe-5ef503d6d440)
 
 
+
+**Tools**:
+
+  Python
+  
+  Pandas
+  
+  Numpy
+  
+  Matplotlib
+  
+  Seaborn
