@@ -22,6 +22,16 @@ Demographic Data Analysis
   ![image](https://github.com/rm-rimsha/DataAnalysiswithPython/assets/105241371/f63ca5c5-04da-459e-babe-5ef503d6d440)
 
 
+**Sea Level Predictor**:
+
+  In this Sea Level Preditor project, I used a dataset containing sea level measurements from 1880 to 2012. By applying linear regression, sea levels are predicted up to the year 2050. The analysis show a consistent rise in sea levels over the years. Based on this trend, the linear regression model predicts that sea levels will continue to rise until 2050.
+
+  ![image](https://github.com/rm-rimsha/Data-Analysis-Projects-with-Python/assets/105241371/7fc5a53f-c17c-4623-a82f-e5071f52699d)
+
+  
+  ![image](https://github.com/rm-rimsha/Data-Analysis-Projects-with-Python/assets/105241371/41c359c0-8e41-4e22-b698-c1aaf665a888)
+
+  
 
 **Tools**:
 
@@ -34,3 +44,5 @@ Demographic Data Analysis
   Matplotlib
   
   Seaborn
+
+  Scipy
